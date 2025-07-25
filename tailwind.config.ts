@@ -62,6 +62,13 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
+				// Artist portfolio colors - Purple theme
+				skyBlue: '#9b87f5',
+				warmPink: '#D946EF',
+				softCream: '#E5DEFF',
+				lavender: '#8B5CF6',
+				peach: '#D6BCFA',
+				mint: '#F1F0FB',
 				// Behance-inspired purple gradient colors
 				purple: {
 					50: '#faf5ff',
